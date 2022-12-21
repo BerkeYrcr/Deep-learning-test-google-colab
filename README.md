@@ -1,0 +1,1 @@
+Bu proje roboflow da oluşturulan dataset kullanılarak yolo görüntü işleme algoritması için pytorch (.pt) dataseti hazırlamaya ve bu oluşturulan pytorch data setini istediğimiz bir başka frameworke çevirme için tasarlanmıştır
